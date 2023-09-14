@@ -1,0 +1,10 @@
+{
+  "name": "Leetcode_TypeScript",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "shuyu liu",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
